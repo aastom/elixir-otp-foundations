@@ -1,0 +1,11 @@
+# Elixir build artifacts
+/_build
+deps/
+mix.lock
+
+# Crash dumps
+*.dump
+erl_crash.dump
+
+# Logs
+*.log
