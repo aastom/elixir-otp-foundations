@@ -4,6 +4,10 @@ Welcome! This project is a hands-on guide designed to teach you the fundamentals
 
 The learning path is structured to turn common points of confusion into "aha!" moments, following the exact plan laid out in the technical specification.
 
+## 📚 Documentation
+
+A comprehensive documentation bundle for this R&D project, including a learning roadmap and key architectural notes, is available for review. Please see the project summary from the Team Lead.
+
 ## Learning Path
 
 You will work through a series of guided scripts and then implement a small but powerful OTP application. The final architecture will be a supervised, in-memory Key-Value store.
